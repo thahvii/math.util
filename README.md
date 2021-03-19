@@ -7,8 +7,8 @@
 * (TBA...)
 
 #### Connect me via 
-[My Facebook] (https://www.facebook.com/v.vyvie24)
-[My email] (mailto: thanhvyh1@gmail.com)
+[My Facebook](https://www.facebook.com/v.vyvie24)
+[My email](mailto: thanhvyh1@gmail.com)
 
 © 2021 thahvii
 
