@@ -7,7 +7,11 @@
 * (TBA...)
 
 #### Connect me via 
+<<<<<<< HEAD
 [My Facebook](https://www.facebook.com/v.vyvie24)  
+=======
+[My Facebook](https://www.facebook.com/v.vyvie24)
+>>>>>>> 96d7f4f57ab919c01fe1ded84a6d0bb1a01a94e2
 [My email](mailto: thanhvyh1@gmail.com)
 
 © 2021 thahvii
