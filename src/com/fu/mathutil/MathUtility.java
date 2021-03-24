@@ -32,7 +32,7 @@ public class MathUtility {
             return 1;
         
         //CPU chạy đến đây, sure n từ 0..20
-        long result = 0;//cố tình heng
+        long result = 1;//cố tình heng
         for (int i = 2; i <= n; i++) 
             result *= i;
         
