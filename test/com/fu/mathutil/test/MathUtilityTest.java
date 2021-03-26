@@ -39,7 +39,7 @@ public class MathUtilityTest {
         assertEquals(1, MathUtility.getFactorial(1));
         assertEquals(1, MathUtility.getFactorial(0));
         //khi màu đỏ thì có 2 tình huống: hàm bạn tính sai, k như kì vọng
-        //                                hàm tính đúng, bnaj kì vọng sai
+        //                                hàm tính đúng, bạn kì vọng sai
 
     }
 
